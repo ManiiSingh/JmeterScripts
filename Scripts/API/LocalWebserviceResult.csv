@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="6" it="0" lt="6" ct="2" ts="1655620293404" s="true" lb="Get Employees" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="198" sby="128" ng="1" na="1">
+  <java.net.URL>http://localhost:8089/employees</java.net.URL>
+</httpSample>
+<httpSample t="10" it="0" lt="10" ct="0" ts="1655620293411" s="true" lb="POST Employees" rc="201" rm="" tn="Thread Group 1-1" dt="text" by="199" sby="231" ng="1" na="1">
+  <java.net.URL>http://localhost:8089/employees</java.net.URL>
+</httpSample>
+
+</testResults>
